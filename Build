@@ -12,6 +12,8 @@ K - Inventory
 M - Phone
 Y - Clothing Wheel (Hat / Shirt On / Off etc)
 N - Mumble Chat
+X - Hands up
+B - Point
 
 B - Seatbelt
 Y - Speed Limiter
@@ -94,6 +96,8 @@ ATM's
 13. open interiors mod
 
 14. Locked doors - ie no civ access to back of police station, police garage etc. allows custom, whitelisted gang areas, etc
+
+15. Restrain / Escort / Place in vehicle / Remove from vehicle script
 
 Later
 

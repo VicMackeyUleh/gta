@@ -1,9 +1,9 @@
-Stage 1 - Menus, Keybinds + associated scripts
+Stage 1 - Menus, Keybinds + associated scripts + their markers etc
 
-F1 - VMenu (Clothes appearance etc) (also add staff menu in here, heal repair etc) + show coords (staff, helps w/ future adding missions, markers, spawns etc)
+F1 - VMenu + Staff VMenu w/ different permissions (mod, admin, dev, god) - We will edit permissions accordingly
 F2 - Emotes
-F3 - Car Keys
-F4 - ID / Licence
+F3 - Car Keys + Purchase Key for vehicle + Locksmith to do so
+F4 - ID / Licence + Physical item to be shown in inventory
 F5 - Invoices / Fines
 F6 - Job Menu
 F7 - Player / Cop / EMS list
@@ -18,14 +18,24 @@ Y - Speed Limiter
 I - Ragdoll
 - - Vehicle Inventory
 = - Glovebox
-PhDn - Lock / Unlock
+PhDn - Lock / Unlock Vehicle
 
 
-2. GUI - Crisp + Clean + Vehicle speed (kp/h)
+2. GUI - Crisp + Clean. Please include cash, bank, dirty money, seatbelt, vehicle speed (kp/h) etc
 
 3. Loadscreen - Add ANY image (we can replace later) + editable rules / info tab
 
 4. Whitelisted jobs - Pref discord integration. Add to discord role, role is recognised ingame for vehicles, uniform, weapons etc
+
+Police recruit
+Police officer
+Police shift commander
+Police Captain
+
+EMS recruit
+EMS officer
+EMS shift commander
+EMS Captain
 
 
 5. Jobs - A = All, W = Whitelist, R = Remove
@@ -53,26 +63,27 @@ Unemployed (Default)
 Barber shop - vmenu will replace
 Clothing shop - vmenu will replace
 Mask shop - vmenu will replace
-RE agents - remove, players will be house at house
+Real Estate agents - remove, players will buy house at house
 
 
 7. Markers to edit 
 
 Mechanic / Los Santos Customs - They are the same, don't need 6
-Downton cab co - change to taxi missions
+Downton cab co - change to taxi missions (Check, may already be cab base)
 Garages - add more to random ares, IE up north
 Hospital - Remove and add Pillbox
 Job Center - change to centerlink
 Police station - add others
-Property for sale - add others, up north, grove st etc + add rentals
+Property for sale - add others, up north, grove st etc - remove rental feature
 Shop robbery - add more
+bank robbery
 
 
 8. Markers to add
 
 ATM's
 
-9. Robbery + Pawn shop script
+9. House Robbery + Pawn shop script (Please include config example so we may add more)
 
 10. Updated garage script
 
@@ -80,11 +91,13 @@ ATM's
 
 12. NPC Interaction - Sell Drugs, Rob (Alert EMS + Police)
 
-13. Locked doors - ie no civ access to back of police station, police garage etc. allows custom, whitelisted gang areas, etc
+13. open interiors mod
+
+14. Locked doors - ie no civ access to back of police station, police garage etc. allows custom, whitelisted gang areas, etc
 
 Later
 
-Player business
+Player business (Buy, have whitelisted interior only available to employees + storage, garage etc)
 Add Mechanic / Car Dealer as Whitelisted jobs
 100% refund after certain time limit on purchased vehicles
 Certain vehicles only available at certain times / dealers

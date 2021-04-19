@@ -22,7 +22,9 @@ PhDn - Lock / Unlock
 
 
 2. GUI - Crisp + Clean
+
 3. Loadscreen - Add ANY image (we can replace later) + editable rules / info tab
+
 4. Whitelisted jobs - Pref discord integration. Add to discord role, role is recognised ingame for vehicles, uniform, weapons etc
 
 
@@ -46,37 +48,33 @@ Taxi - A
 Unemployed (Default)
 
 
-
-
-
-
-
-
 6. Markers to go + remove their shops / scrpts
 
-1. Barber shop - vmenu will replace
-2. Clothing shop - vmenu will replace
-3. Mask shop - vmenu will replace
-4. RE agents - remove, players will be house at house
+Barber shop - vmenu will replace
+Clothing shop - vmenu will replace
+Mask shop - vmenu will replace
+RE agents - remove, players will be house at house
 
 
 7. Markers to edit 
 
-1. Mechanic / Los Santos Customs - They are the same, don't need 6
-2. Downton cab co - change to taxi missions
-3. Garages - add more to random ares, IE up north
-4. Hospital - Remove and add Pillbox
-5. Job Center - change to centerlink
-6. Police station - add others
-7. Property for sale - add others, up north, grove st etc + add rentals
-8. Shop robbery - add more
+Mechanic / Los Santos Customs - They are the same, don't need 6
+Downton cab co - change to taxi missions
+Garages - add more to random ares, IE up north
+Hospital - Remove and add Pillbox
+Job Center - change to centerlink
+Police station - add others
+Property for sale - add others, up north, grove st etc + add rentals
+Shop robbery - add more
 
 
 8. Markers to add
 
-1. ATM's
+ATM's
 
+9. Robbery + Pawn shop script
 
+10. Updated garage script
 
 
 

@@ -31,12 +31,11 @@ PhDn - Lock / Unlock Vehicle
 
 Police recruit
 Police officer
-Police shift commander
+Police SWAT
 Police Captain
 
 EMS recruit
 EMS officer
-EMS shift commander
 EMS Captain
 
 
@@ -98,6 +97,14 @@ ATM's
 14. Locked doors - ie no civ access to back of police station, police garage etc. allows custom, whitelisted gang areas, etc
 
 15. Restrain / Escort / Place in vehicle / Remove from vehicle script
+
+16. Multiple characters
+
+17. Initial spawn @ job centre
+
+18. Clear weather
+
+19. Holster weapon (pull out slowly instead of standard GTA very quick)
 
 Later
 

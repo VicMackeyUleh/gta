@@ -1,6 +1,6 @@
 Stage 1 - Menus, Keybinds + associated scripts + their markers etc
 
-F1 - VMenu + Staff VMenu w/ different permissions (mod, admin, dev, god) - We will edit permissions accordingly
+F1 - VMenu + Staff VMenu w/ different permissions for mod, admin etc
 F2 - Emotes
 F3 - Car Keys + Purchase Key for vehicle + Locksmith to do so
 F4 - ID / Licence + Physical item to be shown in inventory
@@ -84,7 +84,7 @@ bank robbery
 
 ATM's
 
-9. House Robbery + Pawn shop script (Please include config example so we may add more)
+9. House Robbery + Pawn shop script (Please include config example / description so we may add more)
 
 10. Updated garage script
 
@@ -108,9 +108,4 @@ ATM's
 
 Later
 
-Player business (Buy, have whitelisted interior only available to employees + storage, garage etc)
-Add Mechanic / Car Dealer as Whitelisted jobs
-100% refund after certain time limit on purchased vehicles
-Certain vehicles only available at certain times / dealers
-Edit job payments per week so no particular job is the *best*
 

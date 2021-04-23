@@ -4,57 +4,48 @@ Server name - AUS EAST COAST RP
 Change intro music to - https://www.youtube.com/watch?v=8lmWedV9b1Y&ab_channel=JimmyBarnes-Topic
 Language = English (including jobs, driving school)
 
-INGAME SETTINGS TO CUSTOMISE
-
-Swap out police car with different model so people dont get free shottys
-Dollar sign map marker (buy furniture) - change to IKEA
-Add Vehicle garages to Sandy Shore, Paleto Bay, Beach Vehicle Dealer + All LSC
-Job Centre - Change marker text to CentreLink + Move location to original
-Ammunation - ONLY sell basic pistol, flashlight, golf club
-Police recruit items available to use - basic pistol, flashlight, taser, police baton, cruiser, 4wd
-Police officer items available to use - as above, plus custom smg, pursuit vehicle (doesn't matter what, we'll edit that later, just need example config)
-Add bandages, medkits to shops
-
-Vehicle purchasing  / mechanics customise
-
-Change GALERISI marker text to Epic Imports
-Move current (custom) vehicle shop to beach custom car yard
-Change Epic Imports marker to beach custom car yard
-Add original vehicle dealer to Premium Deluxe motorsport location - Where GALERISI currently is
-Add Work Vehicles category to above location
-Player mechanics - Move location + marker to beach custom car yard
-Los Santos Customs - Change back to original vehicle modifaction shop script
-
-
+____________________________________________________________________________________________________________________________________________
 
 How / Do these items work?
 
-USB from shops / drill etc from pawn shop
+USB from shops / drill etc from pawn shop - what do they do?
+Gang Markers Properties - Don't work. Fall through floor. Is there supposed to be a gang of NPCs there or is supposed to be gangs like RP players? 
+How to see vehicle inventory? What button?
+Pawn shops don't buy items stolen from the jewellrey store. Should they? Where to sell if not? What does Pawn shop buy?
+Perrera Hotel - is there storage in there / can you buy storage from IKEA and place it there? If not, remove
+What is the Correios job?
+Does the Yacht Heist work? How?
+Does the Humane Labs Robbery work? How?
+What is the point of McDonalds? Is it a job or is it meant for us to add a shop there or just rp?
+What is the Gruppe6 marker? What does it mean?
 Inventory - certain items don't have a physical picture
-white list for police / ems / gang
-PAWN SHOPS - CANT SELL
-YACHT HEIST
-PERRERA HOTEL - is there storage in there? If not, remove
-CORREIOS job
-HUMAN LABS ROBBERY
-GRUPPE6 MARKER
-MCDONALDS
-GANG MARKERS
-CASINO - FIX OR REMOVE
-CINEMA NOT WORKING - FIX OR REMOVE
-vehicle storage button?
-SCRAPPER - Can we edit what vehicles the scrapper accepts?
 
-Remove from server
+____________________________________________________________________________________________________________________________________________
 
-Extra food + water bars above GPS
-Barber shops
-Car Wash
-Added trees + scenery
-Clothing shops
-Downtown Cab Co 
-Banker job, TAxi job, Journalist job
-Mask shop
-USA Police Station
-Stock Exchange
-Tattoo shops
+Vehicle purchasing  / mechanics customise
+
+Install regular mechanic / workshop mod, ANY player can drive into the marker and repair their car.
+Add a mechanic near (in driveway / workshop etc) all Los Santos Customs.
+Have current mechanic job (player) moved to beach custom car yard - There is a workshop section
+
+
+
+
+Move current (custom) vehicle shop to beach custom beach car yard
+Change name of beach custom car yard to Epic Imports
+Add original vehicle dealer to Premium Deluxe motorsport location - Where GALERISI currently is + change marker to Premium Deluxe Motorsport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
